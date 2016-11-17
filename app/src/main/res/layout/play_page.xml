@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mobi.audiogear.staticfrequency.elements.SpringboardActivity.DSPlay xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:android="http://schemas.android.com/apk/res/android"  android:alpha="0.9" android:background="@color/HEX_D8D8D8FF" android:layout_height="match_parent" android:layout_width="match_parent" android:id="@+id/play">
+   <mobi.audiogear.staticfrequency.elements.SpringboardActivity.DSPlayview android:alpha="0.9" android:background="@color/HEX_D8D8D8FF" android:focusableInTouchMode="true" android:focusable="true" android:layout_marginTop="0dp" android:layout_marginStart="0dp" app:layout_heightPercent="89.999997615814%" android:layout_height="0dp" android:layout_width="match_parent" android:id="@+id/playview"/>
+</mobi.audiogear.staticfrequency.elements.SpringboardActivity.DSPlay>

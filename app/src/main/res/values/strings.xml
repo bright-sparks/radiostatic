@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+   <string formatted="false" name="lab">lab</string>
+   <string formatted="false" name="play">play</string>
+   <string formatted="false" name="studio">studio</string>
+   <string formatted="false" name="httpxprsimcreatorcomfreemartinmyburghradio">http://xprs.imcreator.com/free/martinmyburgh/radiolove</string>
+   <string formatted="false" name="httpplayaudiogearmobi">http://play.audiogear.mobi</string>
+   <string formatted="false" name="app_name">StaticFrequency</string>
+   <string formatted="false" name="kast">kast</string>
+   <string formatted="false" name="httpkastaudiogearmobi">http://kast.audiogear.mobi</string>
+</resources>

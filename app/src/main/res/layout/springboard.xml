@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LinearLayout xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:android="http://schemas.android.com/apk/res/android"  android:background="@color/HEX_434343FF" android:orientation="vertical" android:layout_height="match_parent" android:layout_width="match_parent" android:id="@+id/springboard">
+   <ScrollView android:fillViewport="true" android:layout_height="match_parent" android:layout_width="match_parent">
+      <android.support.percent.PercentRelativeLayout xmlns:app="http://schemas.android.com/apk/res-auto" android:layout_height="wrap_content" android:layout_width="match_parent">
+         <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:id="@+id/pager_container" android:orientation="vertical" android:layout_marginTop="0dp" android:layout_marginStart="0dp" android:layout_height="match_parent" android:layout_width="match_parent">
+            <android.support.design.widget.TabLayout app:tabMode="scrollable" app:tabSelectedTextColor="@color/HEX_FFFFFFFF" app:tabTextColor="@color/HEX_FFFFFFFF" app:tabIndicatorColor="@color/HEX_FFFFFFFF" android:theme="@style/ThemeOverlay.AppCompat.ActionBar" android:background="@color/HEX_3F51B5FF" android:layout_height="wrap_content" android:layout_width="match_parent" android:id="@+id/pager_tabs"/>
+            <mobi.audiogear.staticfrequency.elements.SpringboardActivity.DSPager android:background="@color/HEX_434343FF" android:layout_height="match_parent" android:layout_width="match_parent" android:id="@+id/pager"/>
+         </LinearLayout>
+      </android.support.percent.PercentRelativeLayout>
+   </ScrollView>
+</LinearLayout>
